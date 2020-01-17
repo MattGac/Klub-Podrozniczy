@@ -1,0 +1,98 @@
+/* general */
+body {
+    font-family: 'Raleway', sans-serif;
+}
+.container {
+    padding: 120px 0;
+}
+a{
+    color: #e38f42;
+}
+p{
+    color:#888
+}
+a:hover{
+    color: #e38f42;
+}
+.btn-orange{
+    background-color: #e38f42;
+    color: #fff;
+}
+.btn-orange:hover{
+    background-color: #e39042c2;
+    color: #fff;
+}
+.btn-black {
+    background-color: rgba(0,0,0,0.623);
+    color: #fff;
+}
+.btn-black:hover{
+    background-color: rgba(0,0,0,0.323);
+    color: #fff;
+}
+/* navigation */
+
+.navbar {
+    background-color: #444;
+}
+
+.navbar .container{
+    padding: 0;
+}
+.navbar a { 
+    color: #c2c2c2;
+}
+.navbar a:hover{
+    color: #fff;
+}
+
+/* Join us */
+.join-us {
+    background-image: url(../form-background.jpg);
+    background-size: cover;
+}
+.join-us form{
+    color: #c2c2c2;
+    background-color: rgba(0,0,0,0.3);
+}
+.join-us form header{
+    padding: 20px;
+    margin: 0;
+    background-color: rgba(0,0,0,0.3);
+}
+.join-us form h2{
+    color: #fff;
+}
+.join-us form .fas{
+    font-size: 3.5rem;
+}
+.join-us form fieldset{
+    padding: 25px;
+}
+.join-us form fieldset input,
+.join-us form fieldset textarea{
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 15px;   
+    
+}
+.join-us .content-holder{
+    margin-top: 130px;
+    color: #fff;
+    text-align: center;
+}
+.join-us .content-holder h1{
+    font-weight: 700;
+}
+
+.about-us{
+    background-color: #f8f8f8;
+}
+
+
+
+
+
+
+
